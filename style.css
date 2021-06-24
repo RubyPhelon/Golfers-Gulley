@@ -74,10 +74,11 @@ a {
 }
 
 .ftext {
+  flex: 1;
   color: white;
   padding: 30px;
 }
 
 .map {
-  padding: 30px;
+  flex: 1;
 }
